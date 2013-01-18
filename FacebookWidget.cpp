@@ -1,3 +1,4 @@
+// Copyright (c) Anand Bose
 #include "FacebookWidget.h"
 #include "ui_FacebookWidget.h"
 #include <QWebFrame>
